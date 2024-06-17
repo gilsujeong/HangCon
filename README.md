@@ -49,37 +49,3 @@ HangCon(Hanging Objects in Construction Sites) Dataset
   exp1: ["Hanging object"]
   exp2: ["Hanging object", "Rope"]
   exp3: ["Hanging object", "Rope", "Hanging object with rope"]       
-
-
-**HangCon Dataset Folder Structure**
-
-
-HangCon (14.6GB)
-  |-- train
-     |-- images
-        |-- D2_221201_0826_0.png
-        |-- D2_221201_0832_1.png
-        |-- ...
-     |-- labels
-        |-- COCO
-           |-- coco_train_exp1.json
-           |-- coco_train_exp2.json
-           |-- coco_train_exp3.json
-        |-- VOC
-           |-- labels_voc_exp1
-              |-- D2_221201_0826_0.xml
-              |-- D2_221201_0832_1.xml
-              |-- ...
-           |-- labels_voc_exp2
-           |-- labels_voc_exp3
-        |-- YOLO
-           |-- labels_yolo_exp1
-              |-- D2_221201_0826_0.txt
-              |-- D2_221201_0832_1.txt
-              |-- ...
-           |-- labels_yolo_exp2
-           |-- labels_yolo_exp3
-  |-- val
-  |-- test
-
-
