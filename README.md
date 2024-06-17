@@ -1,6 +1,5 @@
-===================
-Dataset Description
-===================
+**Dataset Description**
+
 HangCon(Hanging Objects in Construction Sites) Dataset
 
 1. Data Collection
@@ -48,9 +47,9 @@ HangCon(Hanging Objects in Construction Sites) Dataset
   exp2: ["Hanging object", "Rope"]
   exp3: ["Hanging object", "Rope", "Hanging object with rope"]       
 
-===================
-HangCon Dataset Folder Structure
-===================
+
+**HangCon Dataset Folder Structure**
+
 
 HangCon (14.6GB)
   |-- train
